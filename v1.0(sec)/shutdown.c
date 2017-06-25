@@ -1,3 +1,4 @@
+// ¹Ø»ú³ÌÐò v1.0 
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
