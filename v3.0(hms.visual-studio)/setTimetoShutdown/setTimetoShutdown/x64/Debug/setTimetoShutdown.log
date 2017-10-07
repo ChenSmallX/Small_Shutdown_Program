@@ -1,0 +1,16 @@
+﻿  shutdown.c
+e:\programermaker\c\small_shutdown_program\v3.0(hms.visual-studio)\settimetoshutdown\settimetoshutdown\shutdown.c(17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+e:\programermaker\c\small_shutdown_program\v3.0(hms.visual-studio)\settimetoshutdown\settimetoshutdown\shutdown.c(30): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+  setCmd.c
+  numCon.c
+e:\programermaker\c\small_shutdown_program\v3.0(hms.visual-studio)\settimetoshutdown\settimetoshutdown\numcon.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+e:\programermaker\c\small_shutdown_program\v3.0(hms.visual-studio)\settimetoshutdown\settimetoshutdown\numcon.c(16): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 2 拥有了类型“int *”
+e:\programermaker\c\small_shutdown_program\v3.0(hms.visual-studio)\settimetoshutdown\settimetoshutdown\numcon.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  main.c
+  正在生成代码...
+  setTimetoShutdown.vcxproj -> E:\ProgramerMaker\C\Small_Shutdown_Program\v3.0(hms.visual-studio)\setTimetoShutdown\x64\Debug\setTimetoShutdown.exe
+  setTimetoShutdown.vcxproj -> E:\ProgramerMaker\C\Small_Shutdown_Program\v3.0(hms.visual-studio)\setTimetoShutdown\x64\Debug\setTimetoShutdown.pdb (Partial PDB)
